@@ -10,6 +10,7 @@ There are solutions for the below-mentioned rosalind problem statements from [we
 <figcaption align = "center"><i>Fig: Rosalind webpage</i></figcaption>
 </figure>
 
+
 | Serial No. | ID | Title |
 |------------|-------------|----------|
 | 1 | DNA | 	Counting DNA Nucleotides
